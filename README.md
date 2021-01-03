@@ -12,7 +12,8 @@ Hunting session has the specific template filled with values, for example time o
 
 Good to know.
 
-This specific code has been designed to be used with party hunts - for one-man hunt browse through my github repository.
+This specific code has been designed to be used with party hunts - for one-man hunt browse through my github repository. App is using variables to, for example, delete empty rows or just better speed of work.
 
 Todo:
+
 Many things but not important now
