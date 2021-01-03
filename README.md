@@ -1,4 +1,4 @@
-# Excel-Word-Cooperation
+# Excel-Word-Cooperation (JavaScript)
 
 Used and tested in Google's free product - Apps Script.
 
